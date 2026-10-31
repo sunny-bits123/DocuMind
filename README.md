@@ -4,10 +4,6 @@
 
 DocuMind is a full-stack RAG (retrieval-augmented generation) app. You upload your own files, ask questions in plain language, and get answers grounded only in those files. Every answer shows where it came from, with the page number, and the original PDF opens next to the chat on that page. If the document doesn't cover your question, DocuMind says so instead of guessing.
 
-<!-- Add screenshots: take them from the running app and save them in a docs/ folder -->
-![Side-by-side answer and PDF viewer](docs/viewer.png)
-![Dashboard](docs/dashboard.png)
-
 ## Features
 
 - **Cited answers.** Each answer lists its sources with the file name and page numbers.
